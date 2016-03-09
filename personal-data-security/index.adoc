@@ -1,0 +1,16 @@
+= On personal data security
+Erwin Kroon <erwin@k3n.nl>;
+v1.0.0
+
+== Introduction
+On IoS users get a notification of their device when an application wants to use their GPS location.
+This gives the user a lot more control on their privacy than asking for a permission once and after that no control at all.
+
+With web applications and the centralized cloud world you get the same control as giving permission once; either it is in the cloud or it isn't.
+For the tech-savvy users out there, this is not the complete truth, their are plenty of possibilities out there for some kind of hybrid model.
+At this time this will either mean that you will have to create a lot of software yourself or get less features.
+
+The same is true for a lot of new Internet of Things devices, with installing such a device, most of the time a company will have a backdoor into your device.
+The always on nature of IoT devices make this a bigger problem than just using a phone or tablet.
+
+In the rest of this article we will identify different levels of control we can exert on our data or connected devices.
