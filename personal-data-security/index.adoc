@@ -14,3 +14,23 @@ The same is true for a lot of new Internet of Things devices, with installing su
 The always on nature of IoT devices make this a bigger problem than just using a phone or tablet.
 
 In the rest of this article we will identify different levels of control we can exert on our data or connected devices.
+
+== Data sensitivity
+// A1 syle or something
+We can identify different levels in the sensitivity of the data we want to share.
+These levels are not tied to specific types of data, as the owner of the data is in control of decisions about the data.
+
+// Add note that data can also be shared under
+- (D1) Data we want to share freely with everyone (*Open-data*)
+- (D2) Data we want to share freely with a particular (set of) receiver(s) (*Shared-data*)
+- (D3) Data we want to share under some constraints with a particular (set of) receiver(s) (*Constrained-data*)
+- (D4) Data we want to share after confirmation from us with a particular receiver (*Acknowledged-data*)
+- (D5) Data we want to keep private (*Private-data*)
+
+// Need different word for connectivity
+== Data vs (IoT) smart devices (connectivity)
+- (C1) Connectivity we want to share freely with everyone (*Open-connectivity*)
+- (C2) Connectivity we want to share freely with a particular (set of) controller(s) (*Shared-connectivity*)
+- (C3) Connectivity we want to share under some constraints with a particular (set of) controller(s) (*Constrained-connectivity*)
+- (C4) Connectivity we want to share after confirmation from us with a particular controller (*Acknowledged-connectivity*)
+- (C5) Connectivity we do not want to share (*Private-connectivity*)
